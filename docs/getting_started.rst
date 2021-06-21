@@ -157,6 +157,7 @@ JSON Config Structure
         },
 
     /*
+    
     inference_params:
 
     The inference_params section is for specifying inference configurations for Open Seismic. 
